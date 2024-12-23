@@ -15,5 +15,5 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   ultraemebedd installtion.rst
+   ultraemebedd installtion
 
