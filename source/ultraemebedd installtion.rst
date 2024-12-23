@@ -1,4 +1,4 @@
-ultraemebedd installtion
+UltraEmbedded Installtion
 ===================================
 hi lakshami iyergshadjsagf
 
