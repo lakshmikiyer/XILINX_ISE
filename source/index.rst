@@ -11,5 +11,6 @@ Course Related Material on EE705 is available here.
    :maxdepth: 3
    :caption: Contents:
 
-   ankur
+UltraEmbedded Installtion
+ankur
 
