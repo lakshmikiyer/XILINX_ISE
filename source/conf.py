@@ -18,6 +18,7 @@ extensions = ['sphinx_rtd_theme',"myst_parser","sphinx_design",]
 
 templates_path = ['_templates']
 exclude_patterns = []
+source_suffix = ['.rst', '.md']
 
 
 
