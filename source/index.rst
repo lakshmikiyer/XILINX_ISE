@@ -10,6 +10,6 @@ Course Related Material on EE705 is available here.
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-             UltraEmbedded Installtion
+UltraEmbedded Installtion
 
 
