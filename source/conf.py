@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'VLSI-DESIGN-LAB'
+project = 'EE705 VLSI DESIGN LAB'
 copyright = '2024, Ankur Gupta'
 author = 'Ankur Gupta'
 release = '1.0'
@@ -14,19 +14,11 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['myst_parser',
-    'sphinx_rtd_theme',
-       'sphinx.ext.autodoc',
-    'sphinx.ext.napoleon',
-    'sphinx.ext.viewcode',]
+extensions = []
 
 templates_path = ['_templates']
 exclude_patterns = []
 
-# source_suffix = {
-#     '.rst': 'reStructuredText',
-#     '.md': 'markdown',
-# }
 
 
 # -- Options for HTML output -------------------------------------------------
