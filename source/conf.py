@@ -15,8 +15,9 @@ release = '1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ['sphinx_rtd_theme',
-              "myst_parser",
-              "sphinx_design",]
+              #"myst_parser",
+              #"sphinx_design",
+              ]
 
 templates_path = ['_templates']
 exclude_patterns = []
