@@ -8,7 +8,7 @@ EE705 VLSI DESIGN LAB documentation
 Course Related Material on EE705 is available here.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Contents:
 
 ultraemebedd installtion
