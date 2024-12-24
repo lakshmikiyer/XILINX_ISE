@@ -12,6 +12,7 @@ Course Related Material on EE705 is available here.
    :caption: Contents:
 
    UltraEmbedded Installtion
-   ankur
+   Vivado Installtion
+
 
 
