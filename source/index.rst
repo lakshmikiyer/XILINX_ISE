@@ -13,7 +13,7 @@ Course Related Material is available here.
 
    Xilinx ISE Installation
    Lab1
-   ISE_Installation_Board_Win10_11
+   ISE_Installation_images
 
 
 
