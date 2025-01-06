@@ -11,8 +11,7 @@ Course Related Material on EE705 is available here.
    :maxdepth: 2
    :caption: Contents:
 
-   UltraEmbedded Installtion
-   Vivado_Installtion/index
+   Xilinx ISE Installtion
 
 
 
