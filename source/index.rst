@@ -13,6 +13,7 @@ Course Related Material on EE705 is available here.
 
    Xilinx ISE Installation
    Lab1
+   ISE_installation_images/ISE_Installation_Board_Win10_11
 
 
 
