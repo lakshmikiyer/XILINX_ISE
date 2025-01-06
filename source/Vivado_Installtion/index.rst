@@ -3,17 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-EE705 VLSI DESIGN LAB documentation
+Vivado Installtion
 ===================================
 Course Related Material on EE705 is available here.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
-   UltraEmbedded Installtion
-   Vivado Installtion
 
+   Windows Vivado Installtion
+   Linux Vivado Installtion
 
 
 
