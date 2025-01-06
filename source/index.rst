@@ -12,6 +12,7 @@ Course Related Material on EE705 is available here.
    :caption: Contents:
 
    Xilinx ISE Installation
+   Lab1
 
 
 
