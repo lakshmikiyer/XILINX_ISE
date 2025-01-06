@@ -11,9 +11,8 @@ Course Related Material is available here.
    :maxdepth: 2
    :caption: Contents:
 
-   Xilinx ISE Installation
-   Lab1
-   ISE_Installation_images
+   
+   ISE_Installation_images/index
 
 
 
