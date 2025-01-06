@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'EE705 VLSI DESIGN LAB'
-copyright = '2024, Ankur Gupta'
-author = 'Ankur Gupta'
+project = 'Miniproject FPGA XILINX ISE LAB'
+copyright = '2025, Lakshmi Iyer'
+author = 'Lakshmi Iyer'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
