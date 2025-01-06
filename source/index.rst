@@ -12,7 +12,7 @@ Course Related Material on EE705 is available here.
    :caption: Contents:
 
    UltraEmbedded Installtion
-   Vivado Installtion
+   Vivado_Installtion/index
 
 
 
