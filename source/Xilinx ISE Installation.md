@@ -1,4 +1,4 @@
-# Xilinx ISE Installtion
+# Xilinx ISE Installation
 Vivado Installation process
 
 (target_to_image)=
