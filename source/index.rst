@@ -13,6 +13,8 @@ Course Related Material on EE705 is available here.
 
    UltraEmbedded Installtion
    Vivado Installtion
+      Windows Vivado Installtion
+      Linux Vivado Installtion
 
 
 
