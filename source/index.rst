@@ -11,7 +11,7 @@ Course Related Material on EE705 is available here.
    :maxdepth: 2
    :caption: Contents:
 
-   Xilinx ISE Installtion
+   Xilinx ISE Installation
 
 
 
